@@ -1,0 +1,17 @@
+{
+  "name": "Kael",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node --experimental-modules app.js"
+  },
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@luskaluck/envvars": "^1.0.1",
+    "discord.js": "^11.5.1"
+  }
+}
